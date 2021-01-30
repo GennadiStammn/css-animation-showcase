@@ -1,2 +1,2 @@
-# css-animation-showcase
-CSS Animation Showcase
+# css-animations-tutorial
+css-animations-tutorial
